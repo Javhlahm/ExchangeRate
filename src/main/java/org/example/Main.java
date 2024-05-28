@@ -1,9 +1,4 @@
 package org.example;
-
-
-import com.formdev.flatlaf.intellijthemes.FlatLightFlatIJTheme;
-import com.formdev.flatlaf.intellijthemes.materialthemeuilite.FlatMaterialLighterIJTheme;
-
 import javax.swing.*;
 
 public class Main {
